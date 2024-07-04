@@ -1,4 +1,4 @@
-# Git Configuration Script and SSH Setup
+# GitSwitcher
 
 This repository contains a script to switch between personal and work git configurations and instructions on setting up SSH for multiple identities.
 
