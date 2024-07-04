@@ -54,7 +54,7 @@ Host github-personal
     IdentitiesOnly yes
 
 # Work GitHub account
-Host :github-work
+Host github-work
     HostName github.com
     User git
     IdentityFile ~/.ssh/id_rsa_work
