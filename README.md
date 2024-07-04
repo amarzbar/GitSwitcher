@@ -43,6 +43,7 @@ ssh-keygen -t rsa -b 4096 -C "your_work_email@domain.com" -f ~/.ssh/id_rsa_work
 ### SSH Config File
 
 Create or edit your `~/.ssh/config` file with the following content:
+If you have pre-generated ssh keys you can simply point the `IndetityFile` attribute to those files instead of the default.
 
 ```plaintext
 # Personal GitHub account
